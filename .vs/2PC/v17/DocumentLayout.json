@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikail\\source\\repos\\2PC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4BFC89-863F-4768-A66C-4ED063D238E9}|Coordinator\\Coordinator.csproj|c:\\users\\mikail\\source\\repos\\2pc\\coordinator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4BFC89-863F-4768-A66C-4ED063D238E9}|Coordinator\\Coordinator.csproj|solutionrelative:coordinator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6ACE7E-E16E-4742-98D9-9BD215213A9B}|Order.API\\Order.API.csproj|c:\\users\\mikail\\source\\repos\\2pc\\order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6ACE7E-E16E-4742-98D9-9BD215213A9B}|Order.API\\Order.API.csproj|solutionrelative:order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6ACE7E-E16E-4742-98D9-9BD215213A9B}|Order.API\\Order.API.csproj|c:\\users\\mikail\\source\\repos\\2pc\\order.api\\order.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3B6ACE7E-E16E-4742-98D9-9BD215213A9B}|Order.API\\Order.API.csproj|solutionrelative:order.api\\order.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4BFC89-863F-4768-A66C-4ED063D238E9}|Coordinator\\Coordinator.csproj|c:\\users\\mikail\\source\\repos\\2pc\\coordinator\\models\\contexts\\twophasecommitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4BFC89-863F-4768-A66C-4ED063D238E9}|Coordinator\\Coordinator.csproj|solutionrelative:coordinator\\models\\contexts\\twophasecommitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4BFC89-863F-4768-A66C-4ED063D238E9}|Coordinator\\Coordinator.csproj|c:\\users\\mikail\\source\\repos\\2pc\\coordinator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A4BFC89-863F-4768-A66C-4ED063D238E9}|Coordinator\\Coordinator.csproj|solutionrelative:coordinator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80AAE2E-CD2B-45DB-AD8D-E426675FF666}|Stock.API\\Stock.API.csproj|c:\\users\\mikail\\source\\repos\\2pc\\stock.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80AAE2E-CD2B-45DB-AD8D-E426675FF666}|Stock.API\\Stock.API.csproj|solutionrelative:stock.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\2PC\\Order.API\\Program.cs",
+              "RelativeDocumentMoniker": "Order.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\2PC\\Order.API\\Program.cs",
+              "RelativeToolTip": "Order.API\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:02:41.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.API.http",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\2PC\\Order.API\\Order.API.http",
+              "RelativeDocumentMoniker": "Order.API\\Order.API.http",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\2PC\\Order.API\\Order.API.http",
+              "RelativeToolTip": "Order.API\\Order.API.http",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-20T12:54:45.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\2PC\\Stock.API\\Program.cs",
+              "RelativeDocumentMoniker": "Stock.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\2PC\\Stock.API\\Program.cs",
+              "RelativeToolTip": "Stock.API\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:33:24.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\2PC\\Coordinator\\appsettings.json",
+              "RelativeDocumentMoniker": "Coordinator\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\2PC\\Coordinator\\appsettings.json",
+              "RelativeToolTip": "Coordinator\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-20T11:38:11.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwoPhaseCommitContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\2PC\\Coordinator\\Models\\Contexts\\TwoPhaseCommitContext.cs",
+              "RelativeDocumentMoniker": "Coordinator\\Models\\Contexts\\TwoPhaseCommitContext.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\2PC\\Coordinator\\Models\\Contexts\\TwoPhaseCommitContext.cs",
+              "RelativeToolTip": "Coordinator\\Models\\Contexts\\TwoPhaseCommitContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:20:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikail\\source\\repos\\2PC\\Coordinator\\Program.cs",
+              "RelativeDocumentMoniker": "Coordinator\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikail\\source\\repos\\2PC\\Coordinator\\Program.cs",
+              "RelativeToolTip": "Coordinator\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:16:17.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
