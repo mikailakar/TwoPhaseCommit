@@ -18,11 +18,11 @@ This project demonstrates the implementation of the Two-Phase Commit (2PC) proto
 - `POST /api/Transactions/rollback`: Roll back a transaction if an error occurs.
 
 ### API STATE
-  0: Ready
-  1: Pending
-  2: Unready
+-0: Ready
+-1: Pending
+-2: Unready
 
 ### TRANSACTION STATE
-  0: Done
-  1: Pending
-  2: Abort (Rollback)
+-0: Done
+-1: Pending
+-2: Abort (Rollback)
